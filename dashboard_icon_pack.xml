@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <!-- YOUR ICON PACK NAME -->
+    <string name="app_name">Bragon</string>
+
+    <string name="theme_title">Bragon</string>
+    <string name="theme_name">Bragon</string>
+
+    <string name="theme_author">Pulkit Sambhavi Singh</string>
+    <string name="developer_name">Pulkit Sambhavi Singh</string>
+    <string name="developerName">Pulkit Sambhavi Singh</string>
+    <string name="authorName">Pulkit Sambhavi Singh</string>
+
+    <string name="authorLink">http://www.yourlink.com</string>
+    <string name="developer_link">http://www.yourlink.com/</string>
+
+    <string name="theme_description"><strong>Thank you for installing this pack!</strong> We have a large library of icons which are constantly updated. Read the FAQ if you have any questions</string>
+    <string name="theme_info"><strong>Thank you for installing this pack!</strong> We have a large library of icons which are constantly updated. Read the FAQ if you have any questions</string>
+    <string name="theme_ad_msg"><strong>Thank you for installing this pack!</strong> We have a large library of icons which are constantly updated. Read the FAQ if you have any questions</string>
+
+    <string name="theme_feature">feature</string>
+
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
+
+    <string name="iconpack">com.purukitto.iconpack.bragon</string>
+
+</resources>
