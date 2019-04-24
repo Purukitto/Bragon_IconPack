@@ -46,7 +46,7 @@
 	<!-- ADOBE APPS -->
 
 	<item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="adobe_acrobat" />
-	<item component="ComponentInfo{com.adobe.reader.intune/com.adobe.reader.AdobeReader}" drawable="adobe_acrobatReader" />
+	<item component="ComponentInfo{com.adobe.reader.intune/com.adobe.reader.AdobeReader}" drawable="adobe_acrobatreader" />
 	<item component="ComponentInfo{com.adobe.creativeapps.gather/com.adobe.creativeapps.gather.activity.GatherSplashScreenActivity}" drawable="adobe_capture" />
 	<item component="ComponentInfo{com.adobe.comp/com.adobe.comp.activities.SplashScreenActivity}" drawable="adobe_comp" />
 	<item component="ComponentInfo{com.adobe.fas/com.adobe.fas.Home.FillAndSign}" drawable="adobe_fill_sign" />
