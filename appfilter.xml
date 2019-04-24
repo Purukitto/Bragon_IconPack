@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+	<!-- THIS IS JUST AN EXAMPLE -->
+
+    <!-- Nova Launcher Default App Drawer -->
+	<item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="home_home2apps_button" />
+    
+    <!-- Google Calendar -->
+ 	<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}" drawable="calendar" />
+ 	<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
+
+	<item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
+
+	<item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="calendar" />
+
+	<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="clock" />
+
+	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.MmsTabActivity}" drawable="messaging" />
+
+
+
+
+	<!-- GOOGLE APPS -->
+
+
+	<item component="ComponentInfo{com.google.android.apps.enterprise.cpanel/com.google.android.apps.enterprise.cpanel.activities.EntryPointActivity}" drawable="gadmin" />
+	<item component="ComponentInfo{com.google.android.apps.ads.publisher/com.google.android.apps.ads.publisher.activity.ReportActivity}" drawable="gadsense" />
+	<item component="ComponentInfo{com.google.android.apps.ads.express/com.google.android.apps.ads.express.activities.entrypoint.LaunchActivity}" drawable="gadwords" />
+	<item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="gdocs" />
+	<item component="ComponentInfo{com.google.android.apps.adwords/com.google.android.apps.adwords.InitialLoadingActivity}" drawable="gads" />
+	<item component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" drawable="ghangout" />
+	<item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" />
+	<item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="gdrive" />
+	<item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="gmail" />
+	<item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="google" />
+	<item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="gphotos" />
+	<item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
+	<item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="gmaps" />
+	<item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="gplay" />
+	<item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="gtranslate" />
+
+
+
+
+	<!-- ADOBE APPS -->
+
+	<item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="adobe_acrobat" />
+	<item component="ComponentInfo{com.adobe.reader.intune/com.adobe.reader.AdobeReader}" drawable="adobe_acrobatReader" />
+	<item component="ComponentInfo{com.adobe.creativeapps.gather/com.adobe.creativeapps.gather.activity.GatherSplashScreenActivity}" drawable="adobe_capture" />
+	<item component="ComponentInfo{com.adobe.comp/com.adobe.comp.activities.SplashScreenActivity}" drawable="adobe_comp" />
+	<item component="ComponentInfo{com.adobe.fas/com.adobe.fas.Home.FillAndSign}" drawable="adobe_fill_sign" />
+	<item component="ComponentInfo{com.adobe.monocle.companion/com.adobe.monocle.companion.MonocleCompanionActivity}" drawable="adobe_scout" />
+	<item component="ComponentInfo{com.adobe.sparklerandroid/com.adobe.sparklerandroid.activity.XDSplashScreenActivity}" drawable="adobe_xd" />
+	<item component="ComponentInfo{com.adobe.cc/com.adobe.cc.SplashScreen}" drawable="adobe_cc" />
+	<item component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.SplashScreen}" drawable="photoshop_express" />
+	<item component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="gsheets" />
+	<item component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="gslides" />
+	<item component="ComponentInfo{com.adobe.spark.post/com.adobe.spark.view.main.SplashActivity}" drawable="adobe_spark" />
+	<item component="ComponentInfo{com.adobe.photoshopmix/com.adobe.photoshopmix.SplashScreenActivity}" drawable="photoshop_mix" />
+	<item component="ComponentInfo{com.adobe.creativeapps.sketch/com.adobe.creativeapps.sketch.activity.SplashScreenActivity}" drawable="photoshop_sketch" />
+	<item component="ComponentInfo{com.adobe.creativeapps.draw/com.adobe.creativeapps.draw.activity.SplashActivity}" drawable="adobe_illustrator" />
+	<item component="ComponentInfo{com.adobe.premiereclip/com.adobe.premiereclip.SplashScreenActivity}" drawable="adobe_pclip" />
+	<item component="ComponentInfo{com.adobe.adobephotoshopfix/com.adobe.adobephotoshopfix.FCSplashScreenActivity}" drawable="photoshop_fix" />
+
+
+
+
+
+
+
+	<!-- APPS -->
+
+	<item component="ComponentInfo{com.purukitto.iconpack.bragon/com.purukitto.iconpack.bragon.activities.SplashActivity}" drawable="bragon" />
+	<item component="ComponentInfo{ch.publisheria.bring/ch.publisheria.bring.activities.BringMainActivity}" drawable="bring" />
+	<item component="ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main}" drawable="edge" />
+	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox_o" />
+	<item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="firefox_beta" />
+	<item component="ComponentInfo{org.mozilla.rocket/org.mozilla.rocket.activity.MainActivity}" drawable="firefox_lite" />
+	<item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}" drawable="firefox_nightly" />
+	<item component="ComponentInfo{com.mx.browser/com.mx.browser.MxSplashActivity}" drawable="maxthon" />
+	<item component="ComponentInfo{com.google.android.apps.vega/com.google.android.apps.vega.VegaMainActivity}" drawable="gbusiness" />
+	<item component="ComponentInfo{com.opera.browser/com.opera.Opera}" drawable="opera_o" />
+	<item component="ComponentInfo{com.opera.browser.beta/com.opera.Opera}" drawable="opera_obeta" />
+	<item component="ComponentInfo{com.opera.touch/com.opera.touch.MainActivity}" drawable="opera_touch" />
+	<item component="ComponentInfo{com.opera.mini.native/com.opera.mini.android.Browser}" drawable="opera_mini" />
+	<item component="ComponentInfo{com.opera.mini.native.beta/com.opera.mini.android.Browser}" drawable="opera_minibeta" />
+
+
+
+</resources>

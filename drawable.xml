@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<version>1</version>
+
+	<category title="Newly Added" />
+	<item drawable="adobe_acrobatReader" />
+	<item drawable="adobe_illustrator" />
+	<item drawable="adobe_pclip" />
+	<item drawable="gmaps" />
+	<item drawable="gphotos" />
+	<item drawable="gplay" />
+	<item drawable="gtranslate" />
+	<item drawable="messaging" />
+	<item drawable="opera_mini" />
+	<item drawable="opera_minibeta" />
+	<item drawable="opera_touch" />
+	<item drawable="photoshop_express" />
+	<item drawable="photoshop_fix" />
+	<item drawable="photoshop_mix" />
+	<item drawable="photoshop_sketch" />
+
+	<category title="Google" />
+	<item drawable="chrome" />
+	<item drawable="gadmin" />
+	<item drawable="gads" />
+	<item drawable="gadsense" />
+	<item drawable="gadwords" />
+	<item drawable="gbusiness" />
+	<item drawable="gcalendar" />
+	<item drawable="gdocs" />
+	<item drawable="gdrive" />
+	<item drawable="ghangout" />
+	<item drawable="gmail" />
+	<item drawable="gmaps" />
+	<item drawable="google" />
+	<item drawable="gphotos" />
+	<item drawable="gplay" />
+	<item drawable="gsheets" />
+	<item drawable="gslides" />
+	<item drawable="gtranslate" />
+	<item drawable="youtube" />
+
+	<category title="Apps" />
+	<item drawable="adobe_acrobat" />
+	<item drawable="adobe_acrobatReader" />
+	<item drawable="adobe_capture" />
+	<item drawable="adobe_cc" />
+	<item drawable="adobe_comp" />
+	<item drawable="adobe_fill_sign" />
+	<item drawable="adobe_illustrator" />
+	<item drawable="adobe_pclip" />
+	<item drawable="adobe_scout" />
+	<item drawable="adobe_spark" />
+	<item drawable="adobe_xd" />
+	<item drawable="bring" />
+	<item drawable="edge" />
+	<item drawable="firefox_beta" />
+	<item drawable="firefox_lite" />
+	<item drawable="firefox_nightly" />
+	<item drawable="firefox_o" />
+	<item drawable="maxthon" />
+	<item drawable="opera_mini" />
+	<item drawable="opera_minibeta" />
+	<item drawable="opera_o" />
+	<item drawable="opera_obeta" />
+	<item drawable="opera_touch" />
+	<item drawable="photoshop_express" />
+	<item drawable="photoshop_fix" />
+	<item drawable="photoshop_mix" />
+	<item drawable="photoshop_sketch" />
+
+	<category title="System" />
+	<item drawable="browser" />
+	<item drawable="calendar" />
+	<item drawable="clock" />
+	<item drawable="messaging" />
+</resources>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appmap>
+
+    <!-- FOR ATOM LAUNCHER -->
+
+    
+    <!--  Antutu Benchmark -->
+    <item class="com.antutu.ABenchMark.ABenchMarkStart" name="antutu_benchmark" />
+
+    <!-- Admin -->
+    <item class="com.google.android.apps.enterprise.cpanel.activities.EntryPointActivity" name="gadmin" />
+
+    <!-- Adobe Acrobat -->
+    <item class="com.adobe.reader.AdobeReader" name="adobe_acrobat" />
+
+    <!-- Adobe Acrobat Reader -->
+    <item class="com.adobe.reader.intune/com.adobe.reader.AdobeReader" name="adobe_acrobatreader" />
+
+    <!-- Adobe Capture -->
+    <item class="com.adobe.creativeapps.gather.activity.GatherSplashScreenActivity" name="adobe_capture" />
+
+    <!-- Adobe Comp -->
+    <item class="com.adobe.comp.activities.SplashScreenActivity" name="adobe_comp" />
+
+    <!-- Adobe Fill & Sign -->
+    <item class="com.adobe.fas.Home.FillAndSign" name="adobe_fill_sign" />
+
+    <!-- Adobe Scout -->
+    <item class="com.adobe.monocle.companion.MonocleCompanionActivity" name="adobe_scout" />
+
+    <!-- Adobe XD -->
+    <item class="com.adobe.sparklerandroid.activity.XDSplashScreenActivity" name="adobe_xd" />
+
+    <!-- AdSense -->
+    <item class="com.google.android.apps.ads.publisher.activity.ReportActivity" name="gadsense" />
+
+    <!-- AdWords Express -->
+    <item class="com.google.android.apps.ads.express.activities.entrypoint.LaunchActivity" name="gadwords" />
+
+    <!-- Creative Cloud -->
+    <item class="com.adobe.cc.SplashScreen" name="adobe_cc" />
+
+    <!-- Docs -->
+    <item class="com.google.android.apps.docs.app.NewMainProxyActivity" name="gdocs" />
+
+    <!-- Edge -->
+    <item class="com.microsoft.ruby.Main" name="edge" />
+
+    <!-- Firefox -->
+    <item class="org.mozilla.firefox.App" name="firefox_o" />
+
+    <!-- Firefox Beta -->
+    <item class="org.mozilla.firefox_beta.App" name="firefox_beta" />
+
+    <!-- Firefox Lite -->
+    <item class="org.mozilla.rocket.activity.MainActivity" name="firefox_lite" />
+
+    <!-- Firefox Nightly -->
+    <item class="org.mozilla.fennec_aurora.App" name="firefox_nightly" />
+
+    <!-- Google Ads -->
+    <item class="com.google.android.apps.adwords.InitialLoadingActivity" name="gads" />
+
+    <!-- Hangouts -->
+    <item class="com.google.android.talk.SigningInActivity" name="ghangout" />
+
+    <!-- MX5 -->
+    <item class="com.mx.browser.MxSplashActivity" name="maxthon" />
+
+    <!-- Google My Business -->
+    <item class="com.google.android.apps.vega.VegaMainActivity" name="gbusiness" />
+
+    <!-- Opera -->
+    <item class="com.opera.Opera" name="opera_o" />
+
+    <!-- Opera beta -->
+    <item class="com.opera.Opera" name="opera_obeta" />
+
+    <!-- Opera Touch -->
+    <item class="com.opera.touch.MainActivity" name="opera_touch" />
+
+    <!-- Photoshop Express -->
+    <item class="com.adobe.psmobile.SplashScreen" name="photoshop_express" />
+
+    <!-- Sheets -->
+    <item class="com.google.android.apps.docs.app.NewMainProxyActivity" name="gsheets" />
+
+    <!-- Slides -->
+    <item class="com.google.android.apps.docs.app.NewMainProxyActivity" name="gslides" />
+
+    <!-- Spark Post -->
+    <item class="com.adobe.spark.view.main.SplashActivity" name="adobe_spark" />
+
+    <!-- Bring! -->
+    <item class="ch.publisheria.bring.activities.BringMainActivity" name="bring" />
+
+    <!-- Adobe Photoshop Mix -->
+    <item class="com.adobe.photoshopmix.SplashScreenActivity" name="photoshop_mix" />
+
+    <!-- Adobe Photoshop Sketch -->
+    <item class="com.adobe.creativeapps.sketch.activity.SplashScreenActivity" name="photoshop_sketch" />
+
+    <!-- Browser -->
+    <item class="com.android.browser.BrowserActivity" name="browser" />
+
+    <!-- Calendar -->
+    <item class="com.android.calendar.homepage.AllInOneActivity" name="calendar" />
+
+    <!-- Chrome -->
+    <item class="com.google.android.apps.chrome.Main" name="chrome" />
+
+    <!-- Clock -->
+    <item class="com.android.deskclock.DeskClockTabActivity" name="clock" />
+
+    <!-- Drive -->
+    <item class="com.google.android.apps.docs.app.NewMainProxyActivity" name="gdrive" />
+
+    <!-- Gmail -->
+    <item class="com.google.android.gm.ConversationListActivityGmail" name="gmail" />
+
+    <!-- Google -->
+    <item class="com.google.android.googlequicksearchbox.SearchActivity" name="google" />
+
+    <!-- Photos -->
+    <item class="com.google.android.apps.photos.home.HomeActivity" name="gphotos" />
+
+    <!-- YouTube -->
+    <item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="youtube" />
+
+    <!-- Adobe Draw -->
+    <item class="com.adobe.creativeapps.draw.activity.SplashActivity" name="adobe_illustrator" />
+
+    <!-- Bragon -->
+    <item class="com.purukitto.iconpack.bragon.activities.SplashActivity" name="bragon" />
+
+    <!-- Maps -->
+    <item class="com.google.android.maps.MapsActivity" name="gmaps" />
+
+    <!-- Google Play Store -->
+    <item class="com.android.vending.AssetBrowserActivity" name="gplay" />
+
+    <!-- Translate -->
+    <item class="com.google.android.apps.translate.TranslateActivity" name="gtranslate" />
+
+    <!-- Adobe Clip -->
+    <item class="com.adobe.premiereclip.SplashScreenActivity" name="adobe_pclip" />
+
+    <!-- Adobe Photoshop Fix -->
+    <item class="com.adobe.adobephotoshopfix.FCSplashScreenActivity" name="photoshop_fix" />
+
+    <!-- Messaging -->
+    <item class="com.android.mms.ui.MmsTabActivity" name="messaging" />
+
+    <!-- Opera Mini -->
+    <item class="com.opera.mini.android.Browser" name="opera_mini" />
+
+    <!-- Opera Mini beta -->
+    <item class="com.opera.mini.android.Browser" name="opera_minibeta" />
+
+
+    
+</appmap>

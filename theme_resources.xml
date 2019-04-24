@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Theme version="1">
+
+    <!-- FOR LG HOME -->
+
+    <Label value="Bragon" />
+    <Wallpaper image="lg_homescreen_wallpaper" />
+    <LockScreenWallpaper image="lockscreen_wallpaper" />
+    <ThemePreview image="lg_homescreen_preview" />
+    <ThemePreviewWork image="lg_homescreen_preview_work" />
+    <ThemePreviewMenu image="lg_homescreen_preview_menu" />
+    <DockMenuAppIcon selector="lg_dockmenu_all_apps_button_icon" />
+
+    <AppIcon name="com.lge.clock/com.lge.clock.AlarmClockActivity" image="lg_launcher_ic_alarm" />
+
+    <!-- Belle UI -->
+    <AppIcon name="com.daeva112.donate.belleui/com.daeva112.dashboard.belleui.activity.StartActivity" image="belleui_donate" />
+    <AppIcon name="com.daeva112.donate.belleui/com.daeva112.dashboard.belleui.activity.MainActivity" image="belleui_donate" />
+    <AppIcon name="com.daeva112.iconpack.belleui/com.daeva112.dashboard.belle.activity.StartActivity" image="belleui" />
+    <AppIcon name="com.daeva112.iconpack.belleui/com.daeva112.dashboard.belle.activity.MainActivity" image="belleui" />
+
+    <!-- Admin -->
+    <AppIcon name="com.google.android.apps.enterprise.cpanel/com.google.android.apps.enterprise.cpanel.activities.EntryPointActivity" image="gadmin" />
+
+    <!-- Adobe Acrobat -->
+    <AppIcon name="com.adobe.reader/com.adobe.reader.AdobeReader" image="adobe_acrobat" />
+
+    <!-- Adobe Acrobat -->
+    <AppIcon name="com.adobe.reader.intune/com.adobe.reader.AdobeReader" image="adobe_acrobatreader" />
+
+    <!-- Adobe Capture -->
+    <AppIcon name="com.adobe.creativeapps.gather/com.adobe.creativeapps.gather.activity.GatherSplashScreenActivity" image="adobe_capture" />
+
+    <!-- Adobe Comp -->
+    <AppIcon name="com.adobe.comp/com.adobe.comp.activities.SplashScreenActivity" image="adobe_comp" />
+
+    <!-- Adobe Fill & Sign -->
+    <AppIcon name="com.adobe.fas/com.adobe.fas.Home.FillAndSign" image="adobe_fill_sign" />
+
+    <!-- Adobe Scout -->
+    <AppIcon name="com.adobe.monocle.companion/com.adobe.monocle.companion.MonocleCompanionActivity" image="adobe_scout" />
+
+    <!-- Adobe XD -->
+    <AppIcon name="com.adobe.sparklerandroid/com.adobe.sparklerandroid.activity.XDSplashScreenActivity" image="adobe_xd" />
+
+    <!-- AdSense -->
+    <AppIcon name="com.google.android.apps.ads.publisher/com.google.android.apps.ads.publisher.activity.ReportActivity" image="gadsense" />
+
+    <!-- AdWords Express -->
+    <AppIcon name="com.google.android.apps.ads.express/com.google.android.apps.ads.express.activities.entrypoint.LaunchActivity" image="gadwords" />
+
+    <!-- Creative Cloud -->
+    <AppIcon name="com.adobe.cc/com.adobe.cc.SplashScreen" image="adobe_cc" />
+
+    <!-- Docs -->
+    <AppIcon name="com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity" image="gdocs" />
+
+    <!-- Edge -->
+    <AppIcon name="com.microsoft.emmx/com.microsoft.ruby.Main" image="edge" />
+
+    <!-- Firefox -->
+    <AppIcon name="org.mozilla.firefox/org.mozilla.firefox.App" image="firefox_o" />
+
+    <!-- Firefox Beta -->
+    <AppIcon name="org.mozilla.firefox_beta/org.mozilla.firefox_beta.App" image="firefox_beta" />
+
+    <!-- Firefox Lite -->
+    <AppIcon name="org.mozilla.rocket/org.mozilla.rocket.activity.MainActivity" image="firefox_lite" />
+
+    <!-- Firefox Nightly -->
+    <AppIcon name="org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App" image="firefox_nightly" />
+
+    <!-- Google Ads -->
+    <AppIcon name="com.google.android.apps.adwords/com.google.android.apps.adwords.InitialLoadingActivity" image="gads" />
+
+    <!-- Hangouts -->
+    <AppIcon name="com.google.android.talk/com.google.android.talk.SigningInActivity" image="ghangout" />
+
+    <!-- MX5 -->
+    <AppIcon name="com.mx.browser/com.mx.browser.MxSplashActivity" image="maxthon" />
+
+    <!-- Google My Business -->
+    <AppIcon name="com.google.android.apps.vega/com.google.android.apps.vega.VegaMainActivity" image="gobusiness" />
+
+    <!-- Opera -->
+    <AppIcon name="com.opera.browser/com.opera.Opera" image="opera_o" />
+
+    <!-- Opera beta -->
+    <AppIcon name="com.opera.browser.beta/com.opera.Opera" image="opera_obeta" />
+
+    <!-- Opera Touch -->
+    <AppIcon name="com.opera.touch/com.opera.touch.MainActivity" image="opera_touch" />
+
+    <!-- Photoshop Express -->
+    <AppIcon name="com.adobe.psmobile/com.adobe.psmobile.SplashScreen" image="photoshop_express" />
+
+    <!-- Sheets -->
+    <AppIcon name="com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity" image="gsheets" />
+
+    <!-- Slides -->
+    <AppIcon name="com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity" image="gslides" />
+
+    <!-- Spark Post -->
+    <AppIcon name="com.adobe.spark.post/com.adobe.spark.view.main.SplashActivity" image="adobe_spark" />
+
+    <!-- Bring! -->
+    <AppIcon name="ch.publisheria.bring/ch.publisheria.bring.activities.BringMainActivity" image="bring" />
+
+    <!-- Adobe Photoshop Mix -->
+    <AppIcon name="com.adobe.photoshopmix/com.adobe.photoshopmix.SplashScreenActivity" image="photoshop_mix" />
+
+    <!-- Adobe Photoshop Sketch -->
+    <AppIcon name="com.adobe.creativeapps.sketch/com.adobe.creativeapps.sketch.activity.SplashScreenActivity" image="photoshop_sketch" />
+
+    <!-- Browser -->
+    <AppIcon name="com.android.browser/com.android.browser.BrowserActivity" image="browser" />
+
+    <!-- Calendar -->
+    <AppIcon name="com.android.calendar/com.android.calendar.homepage.AllInOneActivity" image="calendar" />
+
+    <!-- Chrome -->
+    <AppIcon name="com.android.chrome/com.google.android.apps.chrome.Main" image="chrome" />
+
+    <!-- Clock -->
+    <AppIcon name="com.android.deskclock/com.android.deskclock.DeskClockTabActivity" image="clock" />
+
+    <!-- Drive -->
+    <AppIcon name="com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity" image="gdrive" />
+
+    <!-- Gmail -->
+    <AppIcon name="com.google.android.gm/com.google.android.gm.ConversationListActivityGmail" image="gmail" />
+
+    <!-- Google -->
+    <AppIcon name="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity" image="google" />
+
+    <!-- Photos -->
+    <AppIcon name="com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity" image="gphotos" />
+
+    <!-- YouTube -->
+    <AppIcon name="com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity" image="youtube" />
+
+    <!-- Maps -->
+    <AppIcon name="com.google.android.apps.maps/com.google.android.maps.MapsActivity" image="gmaps" />
+
+    <!-- Google Play Store -->
+    <AppIcon name="com.android.vending/com.android.vending.AssetBrowserActivity" image="gplay" />
+
+    <!-- Translate -->
+    <AppIcon name="com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity" image="gtranslate" />
+
+    <!-- Adobe Draw -->
+    <AppIcon name="com.adobe.creativeapps.draw/com.adobe.creativeapps.draw.activity.SplashActivity" image="adobe_illustrator" />
+
+    <!-- Bragon -->
+    <AppIcon name="com.purukitto.iconpack.bragon/com.purukitto.iconpack.bragon.activities.SplashActivity" image="bragon" />
+
+    <!-- Adobe Clip -->
+    <AppIcon name="com.adobe.premiereclip/com.adobe.premiereclip.SplashScreenActivity" image="adobe_pclip" />
+
+    <!-- Adobe Photoshop Fix -->
+    <AppIcon name="com.adobe.adobephotoshopfix/com.adobe.adobephotoshopfix.FCSplashScreenActivity" image="photoshop_fix" />
+
+    <!-- Messaging -->
+    <AppIcon name="com.android.mms/com.android.mms.ui.MmsTabActivity" image="messaging" />
+
+    <!-- Opera Mini -->
+    <AppIcon name="com.opera.mini.native/com.opera.mini.android.Browser" image="opera_mini" />
+
+    <!-- Opera Mini beta -->
+    <AppIcon name="com.opera.mini.native.beta/com.opera.mini.android.Browser" image="opera_minibeta" />
+
+
+</Theme>
