@@ -157,6 +157,81 @@
     <!-- Opera Mini beta -->
     <item class="com.opera.mini.android.Browser" name="opera_minibeta" />
 
+    <!-- Behance -->
+    <item class="com.behance.network.ui.activities.MainActivity" name="behance" />
+
+    <!-- DeviantArt -->
+    <item class="com.deviantart.android.damobile.activity.HomeActivity" name="deviantart" />
+
+    <!-- Dribbble -->
+    <item class="mathieumaree.rippple.MainActivity" name="dribbble" />
+
+    <!-- Dropbox -->
+    <item class="com.dropbox.android.activity.DropboxBrowser" name="dropbox" />
+
+    <!-- Facebook -->
+    <item class="com.facebook.katana.LoginActivity" name="facebook" />
+
+    <!-- Flickr -->
+    <item class="com.yahoo.mobile.client.android.flickr.ui.misc.LoginActivity" name="flickr" />
+
+    <!-- Foursquare -->
+    <item class="com.joelapenna.foursquared.MainActivity" name="foursquare" />
+
+    <!-- Instagram -->
+    <item class="com.instagram.android.activity.MainTabActivity" name="instagram" />
+
+    <!-- LINE -->
+    <item class="jp.naver.line.android.activity.SplashActivity" name="line" />
+
+    <!-- LinkedIn -->
+    <item class="com.linkedin.android.authenticator.LaunchActivity" name="linkedin" />
+
+    <!-- LinkedIn Lite -->
+    <item class="com.linkedin.android.lite.activities.SplashActivity" name="linkedin_lite" />
+
+    <!-- Messenger -->
+    <item class="com.facebook.orca.auth.StartScreenActivity" name="messenger" />
+
+    <!-- Quora -->
+    <item class="com.quora.android.components.activities.LauncherActivity" name="quora" />
+
+    <!-- Skype -->
+    <item class="com.skype.raider.Main" name="skype" />
+
+    <!-- Snapchat -->
+    <item class="com.snapchat.android.LandingPageActivity" name="snapchat" />
+
+    <!-- SoundCloud -->
+    <item class="com.soundcloud.android.main.LauncherActivity" name="soundcloud" />
+
+    <!-- Spotify -->
+    <item class="com.spotify.music.MainActivity" name="spotify" />
+
+    <!-- Swarm -->
+    <item class="com.foursquare.robin.activities.MainActivity" name="swarm" />
+
+    <!-- Telegram -->
+    <item class="org.telegram.ui.LaunchActivity" name="telegram" />
+
+    <!-- Tumblr -->
+    <item class="com.tumblr.ui.activity.JumpoffActivity" name="tumblr" />
+
+    <!-- Twitter -->
+    <item class="com.twitter.android.StartActivity" name="twitter" />
+
+    <!-- Viber -->
+    <item class="com.viber.voip.WelcomeActivity" name="viber" />
+
+    <!-- Vimeo -->
+    <item class="com.vimeo.android.videoapp.launch.LaunchActivity" name="vimeo" />
+
+    <!-- Vine Camera -->
+    <item class="co.vine.android.MainActivity" name="vine_camera" />
+
+    <!-- WhatsApp -->
+    <item class="com.whatsapp.Main" name="whatsapp" />
+
 
     
 </appmap>

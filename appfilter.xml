@@ -84,4 +84,81 @@
 
 
 
+	<!-- Behance -->
+	<item component="ComponentInfo{com.behance.behance/com.behance.network.ui.activities.MainActivity}" drawable="behance" />
+
+	<!-- DeviantArt -->
+	<item component="ComponentInfo{com.deviantart.android.damobile/com.deviantart.android.damobile.activity.HomeActivity}" drawable="deviantart" />
+
+	<!-- Dribbble -->
+	<item component="ComponentInfo{mathieumaree.rippple/mathieumaree.rippple.MainActivity}" drawable="dribbble" />
+
+	<!-- Dropbox -->
+	<item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}" drawable="dropbox" />
+
+	<!-- Facebook -->
+	<item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook" />
+
+	<!-- Flickr -->
+	<item component="ComponentInfo{com.yahoo.mobile.client.android.flickr/com.yahoo.mobile.client.android.flickr.ui.misc.LoginActivity}" drawable="flickr" />
+
+	<!-- Foursquare -->
+	<item component="ComponentInfo{com.joelapenna.foursquared/com.joelapenna.foursquared.MainActivity}" drawable="foursquare" />
+
+	<!-- Instagram -->
+	<item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" />
+
+	<!-- LINE -->
+	<item component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}" drawable="line" />
+
+	<!-- LinkedIn -->
+	<item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linkedin" />
+
+	<!-- LinkedIn Lite -->
+	<item component="ComponentInfo{com.linkedin.android.lite/com.linkedin.android.lite.activities.SplashActivity}" drawable="linkedin_lite" />
+
+	<!-- Messenger -->
+	<item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="messenger" />
+
+	<!-- Quora -->
+	<item component="ComponentInfo{com.quora.android/com.quora.android.components.activities.LauncherActivity}" drawable="quora" />
+
+	<!-- Skype -->
+	<item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype" />
+
+	<!-- Snapchat -->
+	<item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="snapchat" />
+
+	<!-- SoundCloud -->
+	<item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.LauncherActivity}" drawable="soundcloud" />
+
+	<!-- Spotify -->
+	<item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify" />
+
+	<!-- Swarm -->
+	<item component="ComponentInfo{com.foursquare.robin/com.foursquare.robin.activities.MainActivity}" drawable="swarm" />
+
+	<!-- Telegram -->
+	<item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
+
+	<!-- Tumblr -->
+	<item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="tumblr" />
+
+	<!-- Twitter -->
+	<item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="twitter" />
+
+	<!-- Viber -->
+	<item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="viber" />
+
+	<!-- Vimeo -->
+	<item component="ComponentInfo{com.vimeo.android.videoapp/com.vimeo.android.videoapp.launch.LaunchActivity}" drawable="vimeo" />
+
+	<!-- Vine Camera -->
+	<item component="ComponentInfo{co.vine.android/co.vine.android.MainActivity}" drawable="vine_camera" />
+
+	<!-- WhatsApp -->
+	<item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp" />
+
+
+
 </resources>

@@ -169,5 +169,82 @@
     <!-- Opera Mini beta -->
     <AppIcon name="com.opera.mini.native.beta/com.opera.mini.android.Browser" image="opera_minibeta" />
 
+    <!-- Behance -->
+    <AppIcon name="com.behance.behance/com.behance.network.ui.activities.MainActivity" image="behance" />
+
+    <!-- DeviantArt -->
+    <AppIcon name="com.deviantart.android.damobile/com.deviantart.android.damobile.activity.HomeActivity" image="deviantart" />
+
+    <!-- Dribbble -->
+    <AppIcon name="mathieumaree.rippple/mathieumaree.rippple.MainActivity" image="dribbble" />
+
+    <!-- Dropbox -->
+    <AppIcon name="com.dropbox.android/com.dropbox.android.activity.DropboxBrowser" image="dropbox" />
+
+    <!-- Facebook -->
+    <AppIcon name="com.facebook.katana/com.facebook.katana.LoginActivity" image="facebook" />
+
+    <!-- Flickr -->
+    <AppIcon name="com.yahoo.mobile.client.android.flickr/com.yahoo.mobile.client.android.flickr.ui.misc.LoginActivity" image="flickr" />
+
+    <!-- Foursquare -->
+    <AppIcon name="com.joelapenna.foursquared/com.joelapenna.foursquared.MainActivity" image="foursquare" />
+
+    <!-- Instagram -->
+    <AppIcon name="com.instagram.android/com.instagram.android.activity.MainTabActivity" image="instagram" />
+
+    <!-- LINE -->
+    <AppIcon name="jp.naver.line.android/jp.naver.line.android.activity.SplashActivity" image="line" />
+
+    <!-- LinkedIn -->
+    <AppIcon name="com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity" image="linkedin" />
+
+    <!-- LinkedIn Lite -->
+    <AppIcon name="com.linkedin.android.lite/com.linkedin.android.lite.activities.SplashActivity" image="linkedin_lite" />
+
+    <!-- Messenger -->
+    <AppIcon name="com.facebook.orca/com.facebook.orca.auth.StartScreenActivity" image="messenger" />
+
+    <!-- Quora -->
+    <AppIcon name="com.quora.android/com.quora.android.components.activities.LauncherActivity" image="quora" />
+
+    <!-- Skype -->
+    <AppIcon name="com.skype.raider/com.skype.raider.Main" image="skype" />
+
+    <!-- Snapchat -->
+    <AppIcon name="com.snapchat.android/com.snapchat.android.LandingPageActivity" image="snapchat" />
+
+    <!-- SoundCloud -->
+    <AppIcon name="com.soundcloud.android/com.soundcloud.android.main.LauncherActivity" image="soundcloud" />
+
+    <!-- Spotify -->
+    <AppIcon name="com.spotify.music/com.spotify.music.MainActivity" image="spotify" />
+
+    <!-- Swarm -->
+    <AppIcon name="com.foursquare.robin/com.foursquare.robin.activities.MainActivity" image="swarm" />
+
+    <!-- Telegram -->
+    <AppIcon name="org.telegram.messenger/org.telegram.ui.LaunchActivity" image="telegram" />
+
+    <!-- Tumblr -->
+    <AppIcon name="com.tumblr/com.tumblr.ui.activity.JumpoffActivity" image="tumblr" />
+
+    <!-- Twitter -->
+    <AppIcon name="com.twitter.android/com.twitter.android.StartActivity" image="twitter" />
+
+    <!-- Viber -->
+    <AppIcon name="com.viber.voip/com.viber.voip.WelcomeActivity" image="viber" />
+
+    <!-- Vimeo -->
+    <AppIcon name="com.vimeo.android.videoapp/com.vimeo.android.videoapp.launch.LaunchActivity" image="vimeo" />
+
+    <!-- Vine Camera -->
+    <AppIcon name="co.vine.android/co.vine.android.MainActivity" image="vine_camera" />
+
+    <!-- WhatsApp -->
+    <AppIcon name="com.whatsapp/com.whatsapp.Main" image="whatsapp" />
+
+
+
 
 </Theme>
